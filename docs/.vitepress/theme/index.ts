@@ -1,8 +1,8 @@
 import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 
-import { Card, CardsGroup } from '@miletorix/vitepress-enhanced-site-links'
-import '@miletorix/vitepress-enhanced-site-links/style.css'
+import { Card, CardsGroup } from '@belikellwyd/vitepress-enhanced-site-links'
+import '@belikellwyd/vitepress-enhanced-site-links/style.css'
 
 import 'virtual:group-icons.css'
 

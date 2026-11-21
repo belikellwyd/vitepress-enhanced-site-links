@@ -10,7 +10,7 @@ sidebar: false
 
 Vue components for enhanced link cards in VitePress <3.
 
-![npm](https://img.shields.io/npm/v/@miletorix/vitepress-enhanced-site-links) ![npm](https://img.shields.io/npm/dw/@miletorix/vitepress-enhanced-site-links) ![license](https://img.shields.io/npm/l/@miletorix/vitepress-enhanced-site-links)
+![npm](https://img.shields.io/npm/v/@belikellwyd/vitepress-enhanced-site-links) ![npm](https://img.shields.io/npm/dw/@belikellwyd/vitepress-enhanced-site-links) ![license](https://img.shields.io/npm/l/@belikellwyd/vitepress-enhanced-site-links)
 
 <p align="center">
   <img src="/demo.png" alt="vitepress-enhanced-site-links demo" width="800">
@@ -19,7 +19,7 @@ Vue components for enhanced link cards in VitePress <3.
 ## Installation
 
 ```sh [npm]
-npm i @miletorix/vitepress-enhanced-site-links
+npm i @belikellwyd/vitepress-enhanced-site-links
 ```
 
 ## Usage
@@ -30,8 +30,8 @@ npm i @miletorix/vitepress-enhanced-site-links
 import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 
-import { Card, CardsGroup } from '@miletorix/vitepress-enhanced-site-links' // [!code ++]
-import '@miletorix/vitepress-enhanced-site-links/style.css' // [!code ++]
+import { Card, CardsGroup } from '@belikellwyd/vitepress-enhanced-site-links' // [!code ++]
+import '@belikellwyd/vitepress-enhanced-site-links/style.css' // [!code ++]
 
 export default {
   extends: DefaultTheme,

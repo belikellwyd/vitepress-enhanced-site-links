@@ -2,7 +2,7 @@
 
 Vue components for enhanced link cards in VitePress.
 
-![npm](https://img.shields.io/npm/v/@miletorix/vitepress-enhanced-site-links) ![npm](https://img.shields.io/npm/dw/@miletorix/vitepress-enhanced-site-links) ![license](https://img.shields.io/npm/l/@miletorix/vitepress-enhanced-site-links)
+![npm](https://img.shields.io/npm/v/@belikellwyd/vitepress-enhanced-site-links) ![npm](https://img.shields.io/npm/dw/@belikellwyd/vitepress-enhanced-site-links) ![license](https://img.shields.io/npm/l/@belikellwyd/vitepress-enhanced-site-links)
 
 <p align="center">
   <img src="./assets/demo.png" alt="vitepress-enhanced-site-links demo" width="800">
@@ -11,15 +11,15 @@ Vue components for enhanced link cards in VitePress.
 ## Live Demo and more information
 
 ✨ See it in action:  
-👉 [https://miletorix.github.io/vitepress-enhanced-site-links/](https://miletorix.github.io/vitepress-enhanced-site-links/)
+👉 [https://belikellwyd.github.io/vitepress-enhanced-site-links/](https://belikellwyd.github.io/vitepress-enhanced-site-links/)
 
 📦 NPM Package:  
-👉 [https://www.npmjs.com/package/@miletorix/vitepress-enhanced-site-links](https://www.npmjs.com/package/@miletorix/vitepress-enhanced-site-links)
+👉 [https://www.npmjs.com/package/@belikellwyd/vitepress-enhanced-site-links](https://www.npmjs.com/package/@belikellwyd/vitepress-enhanced-site-links)
 
 ## Installation
 
 ```sh
-npm i @miletorix/vitepress-enhanced-site-links
+npm i @belikellwyd/vitepress-enhanced-site-links
 ```
 
 ## Usage
@@ -31,8 +31,8 @@ npm i @miletorix/vitepress-enhanced-site-links
 import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 
-import { Card, CardsGroup } from '@miletorix/vitepress-enhanced-site-links' // [!code ++]
-import '@miletorix/vitepress-enhanced-site-links/style.css' // [!code ++]
+import { Card, CardsGroup } from '@belikellwyd/vitepress-enhanced-site-links' // [!code ++]
+import '@belikellwyd/vitepress-enhanced-site-links/style.css' // [!code ++]
 
 export default {
   extends: DefaultTheme,

@@ -3,18 +3,18 @@
 Vue components for enhanced link cards in VitePress.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/miletorix/vitepress-enhanced-site-links/main/assets/demo.png" alt="vitepress-enhanced-site-links demo" width="800">
+  <img src="https://raw.githubusercontent.com/belikellwyd/vitepress-enhanced-site-links/main/assets/demo.png" alt="vitepress-enhanced-site-links demo" width="800">
 </p>
 
 ## Live Demo and more information
 
 See it in action:  
-👉 [https://miletorix.github.io/vitepress-enhanced-site-links/](https://miletorix.github.io/vitepress-enhanced-site-links/)
+👉 [https://belikellwyd.github.io/vitepress-enhanced-site-links/](https://belikellwyd.github.io/vitepress-enhanced-site-links/)
 
 ## Installation
 
 ```sh
-npm i @miletorix/vitepress-enhanced-site-links
+npm i @belikellwyd/vitepress-enhanced-site-links
 ```
 
 ## Usage
@@ -26,8 +26,8 @@ npm i @miletorix/vitepress-enhanced-site-links
 import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 
-import { Card, CardsGroup } from '@miletorix/vitepress-enhanced-site-links' // [!code ++]
-import '@miletorix/vitepress-enhanced-site-links/style.css' // [!code ++]
+import { Card, CardsGroup } from '@belikellwyd/vitepress-enhanced-site-links' // [!code ++]
+import '@belikellwyd/vitepress-enhanced-site-links/style.css' // [!code ++]
 
 export default {
   extends: DefaultTheme,
@@ -69,9 +69,9 @@ export default {
 
 **Output**
 
-![demo-2](https://raw.githubusercontent.com/miletorix/vitepress-enhanced-site-links/main/assets/demo-2.png)
+![demo-2](https://raw.githubusercontent.com/belikellwyd/vitepress-enhanced-site-links/main/assets/demo-2.png)
 
-![demo-2](https://raw.githubusercontent.com/miletorix/vitepress-enhanced-site-links/main/assets/demo-2-1.png)
+![demo-2](https://raw.githubusercontent.com/belikellwyd/vitepress-enhanced-site-links/main/assets/demo-2-1.png)
 
 ### Example 2
 
@@ -83,9 +83,9 @@ export default {
 
 **Output**
 
-![demo-3](https://raw.githubusercontent.com/miletorix/vitepress-enhanced-site-links/main/assets/demo-3.png)
+![demo-3](https://raw.githubusercontent.com/belikellwyd/vitepress-enhanced-site-links/main/assets/demo-3.png)
 
-![demo-3](https://raw.githubusercontent.com/miletorix/vitepress-enhanced-site-links/main/assets/demo-3-1.png)
+![demo-3](https://raw.githubusercontent.com/belikellwyd/vitepress-enhanced-site-links/main/assets/demo-3-1.png)
 
 ### Example 3
 
@@ -102,7 +102,7 @@ export default {
 
 **Output**
 
-![demo-4](https://raw.githubusercontent.com/miletorix/vitepress-enhanced-site-links/main/assets/demo-4.png)
+![demo-4](https://raw.githubusercontent.com/belikellwyd/vitepress-enhanced-site-links/main/assets/demo-4.png)
 
 ### Example 4
 
@@ -123,4 +123,4 @@ export default {
 
 **Output**
 
-![demo-5](https://raw.githubusercontent.com/miletorix/vitepress-enhanced-site-links/main/assets/demo-5.png) 
+![demo-5](https://raw.githubusercontent.com/belikellwyd/vitepress-enhanced-site-links/main/assets/demo-5.png) 

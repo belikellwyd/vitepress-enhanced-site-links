@@ -1,5 +1,5 @@
-/// <reference types="C:/Users/user1/Desktop/vitepress-enhanced-site-links/packages/node_modules/@vue/language-core/types/template-helpers.d.ts" />
-/// <reference types="C:/Users/user1/Desktop/vitepress-enhanced-site-links/packages/node_modules/@vue/language-core/types/props-fallback.d.ts" />
+/// <reference types="C:/Users/stahovskis/Documents/projects/vitepress-enhanced-site-links/packages/node_modules/@vue/language-core/types/template-helpers.d.ts" />
+/// <reference types="C:/Users/stahovskis/Documents/projects/vitepress-enhanced-site-links/packages/node_modules/@vue/language-core/types/props-fallback.d.ts" />
 import Card from './Card.vue';
 const props = defineProps();
 const __VLS_ctx = {
